@@ -1,0 +1,3 @@
+﻿  PongGame.cpp
+C:\Users\User\Desktop\Nauka\jakubsobanskicom\github\Unreal Engine\PongTheGame\PongGame\PongGame\PongGame.cpp(114,19): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  PongGame.vcxproj -> C:\Users\User\Desktop\Nauka\jakubsobanskicom\github\Unreal Engine\PongTheGame\PongGame\x64\Debug\PongGame.exe

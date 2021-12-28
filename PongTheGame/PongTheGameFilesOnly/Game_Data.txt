@@ -1,0 +1,7 @@
+
+P1 = j vs  P2 = s
+	WINNER is P2
+	WINNER is P2
+P1 = J vs  P2 = J2
+	WINNER is P1
+	WINNER is P1

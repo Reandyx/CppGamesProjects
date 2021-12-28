@@ -1,0 +1,5 @@
+
+P1 = j vs  P2 = j
+	WINNER is P2
+P1 = Jakub1 vs  P2 = Jakub2
+	WINNER is P2
