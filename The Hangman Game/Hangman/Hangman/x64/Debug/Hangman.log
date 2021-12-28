@@ -1,0 +1,4 @@
+﻿  Hangman.cpp
+C:\Users\User\Desktop\Nauka\jakubsobanskicom\github\Unreal Engine\The Hangman Game\Hangman\Hangman\Hangman.cpp(19,2): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\User\Desktop\Nauka\jakubsobanskicom\github\Unreal Engine\The Hangman Game\Hangman\Hangman\Hangman.cpp(155,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Hangman.vcxproj -> C:\Users\User\Desktop\Nauka\jakubsobanskicom\github\Unreal Engine\The Hangman Game\Hangman\x64\Debug\Hangman.exe
