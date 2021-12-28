@@ -1,0 +1,4 @@
+﻿  CrossTheRoad.cpp
+C:\Users\User\Desktop\Nauka\jakubsobanskicom\github\Unreal Engine\Cross The Road Game\CrossTheRoad\CrossTheRoad\CrossTheRoad.cpp(47,36): warning C4552: „!=”: Wynik wyrażenia nie jest używany
+C:\Users\User\Desktop\Nauka\jakubsobanskicom\github\Unreal Engine\Cross The Road Game\CrossTheRoad\CrossTheRoad\CrossTheRoad.cpp(172,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  CrossTheRoad.vcxproj -> C:\Users\User\Desktop\Nauka\jakubsobanskicom\github\Unreal Engine\Cross The Road Game\CrossTheRoad\x64\Debug\CrossTheRoad.exe
