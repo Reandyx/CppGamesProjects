@@ -1,0 +1,3 @@
+﻿  TripleX.cpp
+C:\Users\User\Desktop\Nauka\#jakubsobanski.com\github\Unreal Engine\TripleX\TripleX\TripleX.cpp(62,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  TripleX.vcxproj -> C:\Users\User\Desktop\Nauka\#jakubsobanski.com\github\Unreal Engine\TripleX\x64\Debug\TripleX.exe
