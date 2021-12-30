@@ -10,3 +10,4 @@ Projects Completed (They have their own repos, some of them are private and only
 4. The Hangman Game files added
 5. Ships The Game files added
 6. Tetris game files in C++/SFML added
+7. Doodle Jump game files in C++/SFML added
