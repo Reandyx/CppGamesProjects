@@ -14,3 +14,4 @@ Projects Completed (They have their own repos, some of them are private and only
 8. Arkanoid game files in C++/SFML added
 9. Tic Tac Toe The Game files added. C++ Console Game. In the future may be an update in which i will save a score in a file
 10. Snake Game Files in C++/SFML Added
+11. Minesweeper game files in C++/Sfml added
