@@ -15,7 +15,8 @@ List:
 5. Ships The Game files added
 6. Tetris game files in C++/SFML added (with Screenshot)
 7. Doodle Jump game files in C++/SFML added (with Screenshot)
-8. Arkanoid game files in C++/SFML added
+8. Arkanoid game files in C++/SFML added (with Screenshot)
 9. Tic Tac Toe The Game files added. C++ Console Game. In the future may be an update in which i will save a score in a file.
-10. Snake Game Files in C++/SFML Added
-11. Minesweeper game files in C++/Sfml added
+10. Snake Game Files in C++/SFML Added (with Screenshot)
+11. Minesweeper game files in C++/Sfml added (with Screenshot)
+12. Fifteen Puzzle game files in c++/Sfml added (with Screenshot)
