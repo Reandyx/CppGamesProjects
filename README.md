@@ -20,4 +20,5 @@ List:
 10. Snake Game Files in C++/SFML Added (with Screenshot)
 11. Minesweeper game files in C++/Sfml added (with Screenshot)
 12. Fifteen Puzzle game files in C++/Sfml added (with Screenshot)
-13. Racin (Top Down) game files in C++/Sfml added (with Screenshot)
+13. Racing (Top Down) game files in C++/Sfml added (with Screenshot)
+14. Outrun game files in C++/Sfml added (with Screenshot)
