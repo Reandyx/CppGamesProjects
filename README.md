@@ -23,3 +23,4 @@ List:
 13. Racing (Top Down) game files in C++/Sfml added (with Screenshot)
 14. Outrun game files in C++/Sfml added (with Screenshot)
 15. Xonix game files in C++/Sfml added (with Screenshot)
+16. Bejeweled game files in C++/Sfml added (with Screenshot)
