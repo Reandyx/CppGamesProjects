@@ -25,3 +25,4 @@ List:
 15. Xonix game files in C++/Sfml added (with Screenshot)
 16. Bejeweled game files in C++/Sfml added (with Screenshot)
 17. Netwalk game files in C++/Sfml added (with 2 Screenshots)
+18. Mahjong Solitaire game files in C++/Sfml added (with 2 Screenshots)
