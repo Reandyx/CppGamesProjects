@@ -27,3 +27,4 @@ List:
 17. Netwalk game files in C++/Sfml added (with 2 Screenshots)
 18. Mahjong Solitaire game files in C++/Sfml added (with 2 Screenshots)
 19. Tron game files in C++/Sfml added (with 2 Screenshots)
+20. Chess game files in C++/Sfml added (with 2 Screenshots)
