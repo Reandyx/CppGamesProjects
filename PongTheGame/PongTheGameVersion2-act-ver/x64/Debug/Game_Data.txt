@@ -1,0 +1,4 @@
+
+P1 = j1 vs  P2 = j2
+P1 = k vs  P2 = k
+	WINNER is P2
